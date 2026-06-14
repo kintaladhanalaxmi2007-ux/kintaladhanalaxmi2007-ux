@@ -1,6 +1,8 @@
 <!-- ANIMATED HEADER --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Dhanalaxmi+Kintala;Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Python+Developer;Turning+Data+into+Insights" />
-</p>---
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Dhanalaxmi+Kintala;Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Turning+Data+into+Insights" />
+</p>
+
+---
 
 💙 Dhanalaxmi Kintala
 
