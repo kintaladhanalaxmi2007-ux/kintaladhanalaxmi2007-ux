@@ -92,11 +92,11 @@
 
 💼 Let's Connect
 
-📧 Email: yourmail@gmail.com
+📧 Email: kintaladhanalaxmi2007@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+💼 LinkedIn: www.linkedin.com/in/kinthali-dhana77
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub:(https://github.com/kintaladhanalaxmi2007-ux)
 
 ---
 
