@@ -44,17 +44,31 @@
 
 → Machine Learning classification model for loan approval prediction
 
-📊 Healthcare Dashboard
 
-→ Interactive Power BI dashboard with KPI cards and insights
+🚢 Titanic Exploratory Data Analysis
+
+→ Performed data cleaning, missing value treatment, outlier detection, and visualization to discover factors affecting passenger survival using Python, Pandas, Matplotlib, and Seaborn.
+
+
+📝 Natural Language Processing (NLP)
+
+→ Built text processing and classification models using techniques such as tokenization, stemming, TF-IDF, and machine learning algorithms for text analytics.
+
+
+🚗 Electric Vehicle Market Analysis Dashboard
+
+→ Designed an interactive Tableau dashboard to analyze EV market trends, vehicle types, manufacturers, and regional adoption patterns, providing business insights through visual analytics.
+
+
+🍕 Pizza Hut Sales Analysis
+
+→ Used SQL and visualization techniques to analyze sales performance, customer preferences, and revenue trends.
+
 
 🎬 Netflix Data Analysis
 
 → Visualization and trend analysis using Python
 
-🍕 Pizza Hut Sales Dashboard
-
-→ SQL-based analytics and business insights
 
 🌍 Country Clustering Analysis
 
